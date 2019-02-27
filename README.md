@@ -15,6 +15,6 @@ This repo is created for my speacial case to get time.
 * libopenexr-dev 
 * libgstreamer1.0-dev
 
-###Python:
+### Python
 * virtualenv
 * dlib 
