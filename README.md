@@ -14,6 +14,7 @@ This repo is created for my speacial case to get time.
 * libqt4-test  
 * libopenexr-dev 
 * libgstreamer1.0-dev
+
 ###Python:
 * virtualenv
 * dlib 
