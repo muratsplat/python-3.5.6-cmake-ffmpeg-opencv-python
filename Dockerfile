@@ -1,4 +1,4 @@
-FROM python:3.5.6-jessie
+FROM python:3.6.8-jessie
 
 # extra dependencies (over what buildpack-deps already includes)
 RUN echo deb http://ftp.debian.org/debian jessie-backports main \

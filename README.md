@@ -18,3 +18,9 @@ This repo is created for my speacial case to get time.
 ### Python
 * virtualenv
 * dlib 
+
+## Tags
+ * 3.6.8 equals to Python `3.6.8`
+ * Latest equals to Python `3.5.6`
+ 
+https://cloud.docker.com/repository/docker/muod/python-35-cmake-ffmpeg-opencv/tags
